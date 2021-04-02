@@ -1,0 +1,22 @@
+{
+    "DEFAULTS": {
+        "MAIN_TOKEN": "TOKEN",
+        "SERVER_ID": "SUNUCU İD",
+        "AUTHOR": "YAPIMCI İD",
+        "LOG_CHANNEL": "LOG KANAL İD",
+        "SAFE_USERS": ["GÜVENLİ KULLANICI İDLERİ"],
+        "SAFE_BOTS": ["GÜVENLİ BOT İD"],
+        "STATUS": "DEVELOPER BY ŞEHİNŞAH ❤️",
+        "VANITY_URL": "özelurl",
+        "VOICE_CHANNEL": "GİRECEĞİ SES KANAL İD"
+    },
+    "SETTINGS": {
+        "OWNER_GUARD": true,
+        "DANGER_DETECTION": true,
+        "BOT_GUARD": true,
+        "IGNORE_OWNER_MODE": {
+            "IGNORE_OWNERS": true,
+            "OWNER_ROLE": "OWNER ROL İD"
+        }
+    }
+}
